@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+}
+
+h1{
+    color: black;
+    font-family: Arial;
+    background-color: aquamarine;
+}
+
+p{
+    color: black;
+    font-family: Verdana;
+    font-size: 20px;
+    background-color: red;
+    
+}
